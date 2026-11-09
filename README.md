@@ -1,1 +1,1 @@
-# qrilka.net.ru
+# qrilka.ru.net
