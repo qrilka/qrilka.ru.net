@@ -1,0 +1,5 @@
+base_url = "https://qrilka.net.ru"
+title = "Kirill Zaborsky"
+description = "Personal website of Kirill Zaborsky"
+default_language = "en"
+compile_sass = false
